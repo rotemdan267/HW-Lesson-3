@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\האקר-יו\שיעור 3\HW-Lesson-3\HW-Lesson-3\bin\Debug\HW-Lesson-3.exe.config
+C:\Users\User\Desktop\האקר-יו\שיעור 3\HW-Lesson-3\HW-Lesson-3\bin\Debug\HW-Lesson-3.exe
+C:\Users\User\Desktop\האקר-יו\שיעור 3\HW-Lesson-3\HW-Lesson-3\bin\Debug\HW-Lesson-3.pdb
+C:\Users\User\Desktop\האקר-יו\שיעור 3\HW-Lesson-3\HW-Lesson-3\obj\Debug\HW-Lesson-3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\האקר-יו\שיעור 3\HW-Lesson-3\HW-Lesson-3\obj\Debug\HW-Lesson-3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\האקר-יו\שיעור 3\HW-Lesson-3\HW-Lesson-3\obj\Debug\HW-Lesson-3.exe
+C:\Users\User\Desktop\האקר-יו\שיעור 3\HW-Lesson-3\HW-Lesson-3\obj\Debug\HW-Lesson-3.pdb
